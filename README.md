@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YouCyrax
-- 👀 I’m interested in Sftware
+- 👀 I’m interested in Software
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me my email
