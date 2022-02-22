@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YouCyrax
+- 👋 Hi, I’m Younes Seghirou
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on many projects
