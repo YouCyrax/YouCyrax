@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me my email
+- 📫 How to reach me? from my email
 
 <!---
 YouCyrax/YouCyrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
